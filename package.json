@@ -1,0 +1,19 @@
+{
+  "name": "lorem-hipsum-api1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelayman/lorem-hipsum-api.git"
+  },
+  "author": "annlayman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelayman/lorem-hipsum-api/issues"
+  },
+  "homepage": "https://github.com/aelayman/lorem-hipsum-api#readme"
+}
